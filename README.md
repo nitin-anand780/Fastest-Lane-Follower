@@ -52,7 +52,7 @@ The code for the lane-following robot was fetched from **RoboJunkies** and has b
 - Implement a more sophisticated path-following algorithm.
 
 ## Lane follower in Action
-[![Click here to see lane follower in action](https://youtu.be/IQh2VlbWpbw)
+[Click here to see lane follower in action](https://youtu.be/IQh2VlbWpbw)
 
 
 ## Special Thanks:
