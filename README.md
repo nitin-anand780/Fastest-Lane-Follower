@@ -51,7 +51,7 @@ The code for the lane-following robot was fetched from **RoboJunkies** and has b
 - Integrate more sensors for better accuracy.
 - Implement a more sophisticated path-following algorithm.
 
-##Lane follower in Action
+## Lane follower in Action
 [![Click here to see lane follower in action](https://github.com/nitin-anand780/Fastest-line-follower/thumbnails/lane_follower_thumbnail.png)](https://youtu.be/IQh2VlbWpbw)
 
 
